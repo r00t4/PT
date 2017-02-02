@@ -12,18 +12,11 @@ namespace ConsoleApplication1_1
             for (int i = 0; i < args.Length; i++)
             {
                 int g = Convert.ToInt32(args[i]);
-                if (g == 1)
-                {
-                    Console.WriteLine("1 is prime");
-                }
-                else
-                {
-                    int r = 1;
-                    for (int j = 2; j < g; j++)
+                int r = 1;
+                for (int j = 2; j < g; j++)
                     { 
                         if (g % j == 0)
                         {
-                            Console.WriteLine(g + " is not prime");
                             r = j;
                             break;
                             }
@@ -31,7 +24,6 @@ namespace ConsoleApplication1_1
                     if (r == 1) {
                         Console.WriteLine(g + " is prime"); 
                     }
-                }
             }
             Console.ReadKey();
         }
