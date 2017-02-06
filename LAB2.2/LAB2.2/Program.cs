@@ -11,7 +11,26 @@ namespace LAB2._2
     {
         static void Main()
         { 
-            string text = File.ReadAllText (@"C:\FTP\WriteText.txt");   
+            FileStream text = new FileStream(@"C:\FTP\WriteText.txt", FileMode.Open);
+            StreamReader sr = new StreamReader(text);
+            int ger;
+            int max = -1000;
+            int min = 10000;    
+            while (!sr.EndOfStream)
+            {
+                ger = Convert.ToInt16(sr.ReadLine());
+                    if (ger < min)
+                    {
+                        min = ger;
+                    }
+                    if (ger > max)
+                    {
+                        max = ger;
+                    }
+            }
+            sr.Close();
+
+            /*string text = File.ReadAllText (@"C:\FTP\WriteText.txt");   
             Console.WriteLine("Contents of WriteText.txt = {0}", text);
 
             int max = -1000;
@@ -29,7 +48,7 @@ namespace LAB2._2
                     max = g;
                 }
             }
-
+            */
             Console.WriteLine("Min is " + min);
             Console.WriteLine("Max is " + max);
             Console.WriteLine("Press any key to exit.");
