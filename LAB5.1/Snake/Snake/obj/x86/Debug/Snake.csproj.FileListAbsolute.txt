@@ -1,0 +1,7 @@
+C:\FTP\PP17-master\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\FTP\PP17-master\Snake\Snake\bin\Debug\Snake.exe
+C:\FTP\PP17-master\Snake\Snake\bin\Debug\Snake.pdb
+C:\FTP\PP17-master\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\FTP\PP17-master\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\FTP\LAB5.1\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\FTP\LAB5.1\Snake\Snake\obj\x86\Debug\Snake.pdb
