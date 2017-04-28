@@ -1,0 +1,27 @@
+c:\users\мурат\documents\visual studio 2013\Projects\astr\astr\bin\Debug\astr.exe.config
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\bin\Debug\astr.exe
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\bin\Debug\astr.pdb
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.csprojResolveAssemblyReference.cache
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.frmAsteroids.resources
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.Properties.Resources.resources
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.csproj.GenerateResource.Cache
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.exe
+C:\Users\Мурат\Documents\Visual Studio 2013\Projects\astr\astr\obj\Debug\astr.pdb
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\bin\Debug\astr.exe.config
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.exe
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.pdb
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\bin\Debug\astr.exe
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\bin\Debug\astr.pdb
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.csprojResolveAssemblyReference.cache
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.frmAsteroids.resources
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.Properties.Resources.resources
+C:\FTP\WindowsForms\Asteroid\Asteroid-Game-by-Murat-master\astr\obj\Debug\astr.csproj.GenerateResource.Cache
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\bin\Debug\astr.exe.config
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.exe
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.pdb
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\bin\Debug\astr.exe
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\bin\Debug\astr.pdb
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.csprojResolveAssemblyReference.cache
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.frmAsteroids.resources
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.Properties.Resources.resources
+C:\FTP\WindowsForms\Asteroid\Asteroid\astr\obj\Debug\astr.csproj.GenerateResource.Cache
