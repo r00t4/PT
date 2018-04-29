@@ -1,0 +1,9 @@
+c:\FTP\WindowsForms\Flappy\bin\Debug\Flappy.exe.config
+c:\FTP\WindowsForms\Flappy\bin\Debug\Flappy.exe
+c:\FTP\WindowsForms\Flappy\bin\Debug\Flappy.pdb
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.csprojResolveAssemblyReference.cache
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.Form1.resources
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.csproj.GenerateResource.Cache
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.exe
+c:\FTP\WindowsForms\Flappy\obj\Debug\Flappy.pdb

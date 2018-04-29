@@ -1,0 +1,9 @@
+c:\FTP\WindowsForms\Calc\Calc\bin\Debug\Calc.exe.config
+c:\FTP\WindowsForms\Calc\Calc\bin\Debug\Calc.exe
+c:\FTP\WindowsForms\Calc\Calc\bin\Debug\Calc.pdb
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.Form1.resources
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.exe
+c:\FTP\WindowsForms\Calc\Calc\obj\Debug\Calc.pdb
